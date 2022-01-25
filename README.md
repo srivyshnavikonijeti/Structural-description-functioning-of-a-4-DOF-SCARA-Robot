@@ -1,0 +1,1 @@
+# Structural-description-functioning-of-a-4-DOF-SCARA-Robot---A-detailed-case-study.
